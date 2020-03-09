@@ -31,4 +31,8 @@ then
 clear
 echo $red "SIAP SIAP"
 sleep 5
-
+git clone https://github.com/RAJABING/BINTOBINGKU
+ls BINGTOBINGKU
+cd BINGTOBINGKU
+ls BINGTOBINGKU
+sh BINGTOBINGKU.sh
