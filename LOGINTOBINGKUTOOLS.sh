@@ -18,7 +18,7 @@ clear
 echo $green "SIAP SIAP BOI"
 sleep 5
 pkg install toilet
-git clone https://github.com/RAJABING/bingku
+git clone https://github.com/RAJABING/PLAYERTOBINGKU
 ls
 ls bingku
 cd bingku
@@ -31,4 +31,4 @@ then
 clear
 echo $red "SIAP SIAP"
 sleep 5
-g
+
