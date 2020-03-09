@@ -12,9 +12,9 @@ read -p "PILIH UNTUK LOGIN : "teman
 
 
 
-if [ $teman = 1] || $teman = 1]
-clear
+if [ $teman = 1] || [$teman = 1]
 then
+clear
 echo $green "SIAP SIAP BOI"
 sleep 5
 pkg install toilet
@@ -25,3 +25,10 @@ cd bingku
 ls bingku
 sh bingku.sh
 fi
+
+fi [ $teman = 2] || [$teman = 2]
+then
+clear
+echo $red "SIAP SIAP"
+sleep 5
+g
