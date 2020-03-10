@@ -1,10 +1,6 @@
 clear
 echo "PILIH YA"
 
-
-
-
-
 echo  $green "1.) UNTUK PEMAKAI"
 echo  $red "2.) UNTUK BING"
 read -p "PILIH UNTUK LOGIN : "teman
@@ -26,7 +22,7 @@ ls bingku
 sh bingku.sh
 fi
 
-fi [ $teman = 2] || [$teman = 2]
+if [ $teman = 2] || [$teman = 2]
 then
 clear
 echo $red "SIAP SIAP"
