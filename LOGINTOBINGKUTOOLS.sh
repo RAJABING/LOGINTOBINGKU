@@ -1,9 +1,12 @@
 clear
 echo "PILIH YA"
 
+echo
 echo  $green "1.) UNTUK PEMAKAI"
 echo  $red "2.) UNTUK BING"
-read -p "PILIH UNTUK LOGIN :"teman
+echo
+read -p "pilihmana:" bro
+
 
 
 
