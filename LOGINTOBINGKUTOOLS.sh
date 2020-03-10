@@ -11,7 +11,7 @@ read -p "pilihmana:" bro
 
 
 
-if [ $teman = 1 ] || [$teman = 1 ]
+if [ $bro = 1 ] || [$bro = 1 ]
 then
 clear
 echo $green "SIAP SIAP BOI"
