@@ -3,12 +3,12 @@ echo "PILIH YA"
 
 echo  $green "1.) UNTUK PEMAKAI"
 echo  $red "2.) UNTUK BING"
-read -p "PILIH UNTUK LOGIN : "teman
+read -p "PILIH UNTUK LOGIN :"teman
 
 
 
 
-if [ $teman = 1] || [$teman = 1]
+if [ $teman = 1 ] || [$teman = 1 ]
 then
 clear
 echo $green "SIAP SIAP BOI"
@@ -22,7 +22,7 @@ ls bingku
 sh bingku.sh
 fi
 
-if [ $teman = 2] || [$teman = 2]
+if [ $teman = 2 ] || [$teman = 2 ]
 then
 clear
 echo $red "SIAP SIAP"
