@@ -19,10 +19,10 @@ sleep 5
 pkg install toilet
 git clone https://github.com/RAJABING/PLAYERTOBINGKU
 ls
-ls bingku
-cd bingku
-ls bingku
-sh bingku.sh
+ls PLAYERTOBINGKU
+cd PLAYERTOBINGKU
+ls PLAYERTOBINGKU
+sh PLAYERTOBINGKU.sh
 fi
 
 if [ $teman = 2 ] || [$teman = 2 ]
